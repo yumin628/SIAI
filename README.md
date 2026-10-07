@@ -42,7 +42,7 @@
 **SIAI** is a local AI-powered security management system designed to operate in highly restricted, strictly offline networks. It integrates a local Large Language Model (LLM via Ollama) to analyze, summarize, and predict facility security threats, environmental conditions, and operational schedules.
 
 ### 📖 Background & Domain Shift
-* **Military Origin & Strict Compliance:** This project was originally developed in September 2026 during my military service at the GOP frontline as a tactical intelligence system. **To strictly comply with military security regulations and prevent any leak of classified information, the source code in this repository has been completely refactored. All military terminology and operational logs have been replaced with a civilian "Secure-facility Intelligence AI (SIAI)" domain.**
+* **Military Origin & Strict Compliance:** This project was originally developed in September 2026 during my military service at the frontline guard force as a tactical intelligence system against North Korean Soliders. **To strictly comply with military security regulations and prevent any leak of classified information, the source code in this repository has been completely refactored. All military terminology and operational logs have been replaced with a civilian "Secure-facility Intelligence AI (SIAI)" domain.**
 * **From Rule-based to LLM:** What started as a Rule-Based AI system evolved into a highly advanced hybrid system. Because external APIs (like OpenAI) were prohibited in the offline environment, I strategically deployed **NAVER's HyperCLOVA X Seed 1.5B** model via Ollama for optimal local performance.
 
 ### 🏆 Key Achievements
