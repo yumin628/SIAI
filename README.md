@@ -1,3 +1,5 @@
+<img width="600" alt="Screenshot_20261007_133005_Video Player (1)" src="https://github.com/user-attachments/assets/a0cd4443-ab91-4a1a-a195-f100a0e81916" />
+<img width="600" alt="Screenshot_20261007_132945_Video Player (1)" src="https://github.com/user-attachments/assets/d780a87b-f32d-45ca-9d3c-69ae3ff653e1" />
 # 🛡️ SIAI (Secure-facility Intelligence AI)
 **Local AI-Powered Security Management System (로컬 AI 기반 시설 보안 관제 시스템)**
 
